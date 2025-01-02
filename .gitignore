@@ -1,0 +1,15 @@
+*
+!*.*
+!*/
+*.exe
+*.txt
+.vscode
+.git
+build
+txt
+standard_functions
+*.so
+*.o
+test
+debug
+libraries
